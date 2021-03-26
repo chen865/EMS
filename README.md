@@ -1,7 +1,8 @@
 # EMS
 前后端分离的项目，
 比较简单
-
+back是后端内容
+front是前端html
 
 要求如下：
 后台新建 maven 项目，项目名为 emsms，添加相关 jar 依赖，10 分
